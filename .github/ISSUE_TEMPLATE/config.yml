@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private support
+    url: https://evernivo.com/security/
+    about: Use the private contact on this page for sensitive or account-specific questions.
+  - name: Download Excel Zipper
+    url: https://download.evernivo.com/
+    about: Get the current verified installer and checksum.

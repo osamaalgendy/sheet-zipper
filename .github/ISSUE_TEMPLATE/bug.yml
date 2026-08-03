@@ -1,0 +1,40 @@
+name: Bug report
+description: Report an Excel Zipper problem using non-sensitive test data.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Do not upload private workbooks. Use a synthetic reproduction or email support@evernivo.com.
+  - type: input
+    id: version
+    attributes:
+      label: Excel Zipper version
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options: [Windows 11, Windows 10]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe the smallest safe reproduction and the workflow selected.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Error code
+      description: Include the stable code shown by the application, if any.
