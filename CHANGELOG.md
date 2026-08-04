@@ -1,7 +1,7 @@
 # Changelog
 
 Release notes are published with each entry on the
-[GitHub Releases](https://github.com/osamaalgendy/excel-zipper/releases) page.
+[GitHub Releases](https://github.com/osamaalgendy/sheet-zipper/releases) page.
 
 ## 1.0.0 — release candidate
 

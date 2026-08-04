@@ -1,6 +1,6 @@
-# Excel Zipper 1.0.0 for Windows
+# Sheet Zipper 1.0.0 for Windows
 
-Excel Zipper processes supported Excel workbooks locally and publishes new
+Sheet Zipper processes supported Excel workbooks locally and publishes new
 outputs without overwriting the selected source.
 
 ## Included
@@ -13,9 +13,9 @@ outputs without overwriting the selected source.
 
 ## Install
 
-Download `Excel-Zipper-Setup-1.0.0-x64.exe` on Windows 10 or Windows 11 x64.
+Download `Sheet-Zipper-Setup-1.0.0-x64.exe` on Windows 10 or Windows 11 x64.
 The installer is Authenticode-signed and timestamped. Its SHA-256 value is
 included in `SHA256SUMS.txt` and on
 [download.evernivo.com](https://download.evernivo.com/).
 
-Do not download Excel Zipper from third-party mirrors.
+Do not download Sheet Zipper from third-party mirrors.
