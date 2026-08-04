@@ -23,7 +23,6 @@ Workbook processing runs on the local device. Source files are not overwritten.
 ## Support and security
 
 - Private support: [support@evernivo.com](mailto:support@evernivo.com)
-- Product page: [evernivo.com/excel-zipper](https://evernivo.com/excel-zipper/)
 - Privacy: [evernivo.com/privacy](https://evernivo.com/privacy/)
 - Security: [SECURITY.md](SECURITY.md)
 
