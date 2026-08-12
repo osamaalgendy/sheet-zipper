@@ -3,6 +3,22 @@
 Sheet Zipper is an Evernivo desktop application for analyzing, optimizing,
 archiving, and restoring Excel workbooks locally.
 
+Project page: [Evernivo — Sheet Zipper](https://evernivo.com/excel-zipper/)
+
+## Screenshots
+
+### Compress Excel files
+
+![Compress Excel files](screenshots/01-compress-excel-files.png)
+
+### Restore an Excel workbook
+
+![Restore an Excel workbook](screenshots/02-restore-excel-workbook.png)
+
+### XLZ archive ready
+
+![XLZ archive ready](screenshots/03-xlz-file-ready.png)
+
 ## Download
 
 Download the current verified Windows installer from
